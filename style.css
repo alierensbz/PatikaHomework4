@@ -1,0 +1,21 @@
+body {
+    background-color: #1e1b1baf;
+   
+    
+}
+
+nav {
+    color: aqua;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.f-gold {
+    color: gold;
+}
+p {
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifs;
+}
